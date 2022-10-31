@@ -1,0 +1,1 @@
+"# SoftArch-Credential-Diagram-Pattern" 
